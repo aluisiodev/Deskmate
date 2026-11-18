@@ -1,0 +1,6 @@
+@Deskmate.Api_HostAddress = http://localhost:5113
+
+GET {{Deskmate.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
